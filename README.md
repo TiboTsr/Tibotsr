@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Nombres de visites<br>
-  <img src="https://profile-counter.glitch.me/WolfyTibo/count.svg" />
+  <img src="https://profile-counter.glitch.me/Tibotsr/count.svg" />
 </p>
 
 <!--
