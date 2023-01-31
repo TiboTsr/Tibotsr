@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tibotsr</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tibotsr&label=Profile%20views&color=0e75b6&style=flat" alt="tibotsr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tibotsr" alt="tibotsr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 Tous mes projets sont disponibles sur : [https://github.com/tibotsr](https://github.com/tibotsr)
