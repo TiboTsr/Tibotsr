@@ -1,8 +1,6 @@
 ## Hi 👋, I'm Tibotsr
 
-This is the number of people who have visited my profile:       ![tibotsr](https://komarev.com/ghpvc/?username=tibotsr&label=Profile%20views&color=0e75b6&style=flat)
-
-[![](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
+> I'm a French student studying IT, and I'd like to make a career out of it when I'm older
 
 * 👨‍💻 All my projects are available on : [My Github](https://github.com/tibotsr)
 * 📝 My personal website : [S00N](S00N)
