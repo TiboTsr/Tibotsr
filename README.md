@@ -30,6 +30,11 @@ This is the number of people who have visited my profile:       ![tibotsr](https
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
+I would like to learn javascript because : 
+*javascript is a multi-purpose language
+*very useful for creating beautiful websites 
+
+
 ![tibotsr](https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
 <--
