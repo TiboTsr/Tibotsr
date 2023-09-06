@@ -3,7 +3,7 @@
 > I'm a French student studying IT, and I'd like to make a career out of it when I'm older
 
 * 👨‍💻 All my projects are available on : [My Github](https://github.com/tibotsr)
-    * One of my old html projects for school <a href="tesla.tibotsr.repl.co" target="_blank">
+    * One of my old html projects for school <a href="tesla.tibotsr.repl.co" target="_blank">My fisrt website</a>
 * 📝 My personal website : [S00N](S00N)
 * 📄 My links : [My Linktree](https://linktr.ee/tibotsr)
 
