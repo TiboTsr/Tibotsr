@@ -35,16 +35,11 @@ I would like to learn javascript because :
 * very useful for creating beautiful websites
   
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p>
 
-![tibotsr](https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact)
+<--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tibotsr&show_icons=true&locale=en" alt="tibotsr" /></p>-->
 
-<--
-
- ![tibotsr](https://github-readme-stats.vercel.app/api?username=tibotsr&show_icons=true&locale=en)
-
--->
-
-![tibotsr](https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&" alt="tibotsr" /></p>
 
 Nombres de visites  
 ![](https://profile-counter.glitch.me/Tibotsr/count.svg)
