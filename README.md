@@ -34,8 +34,9 @@ I would like to learn javascript because :
 * javascript is a multi-purpose language
 * very useful for creating beautiful websites
   
+### Here are some statistics about my account : 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p>
+<p>Here are the languages I've used the most <br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&" alt="tibotsr" /></p>
 
