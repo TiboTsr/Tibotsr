@@ -8,9 +8,9 @@ Ici le nombre de personne qui ont visité mon profil :       ![tibotsr](https://
 * 📝 Mon site personnel : [S00N](S00N)
 * 📄 Mes liens : [Mon Linktree](https://linktr.ee/tibotsr)
 
-# Mes réseaux
+### Mes réseaux 
 
-<p align="left">
+<p align="left">Vous pouvez me contacter sur le réseau de votre choix : 
 <a href="https://instagram.com/tibo.tsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
 <a href="https://discord.com/users/476420730989445130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tibotsr" height="30" width="40" /></a>
 </p>
