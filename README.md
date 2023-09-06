@@ -30,15 +30,15 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333??style=flat-square&logo=javascript)
-- 🖥️ &nbsp;
+- 🖥️ 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-- 👨‍💻 &nbsp;
+- 👨‍💻 
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
-- ⚙️ &nbsp;
+- ⚙️ 
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
-- 🔧 &nbsp;
+- 🔧 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)  
 
 
