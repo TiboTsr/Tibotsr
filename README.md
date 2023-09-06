@@ -24,36 +24,22 @@
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<--### 🛠 &nbsp;Connaissances techniques
+### 🛠 &nbsp;Connaissances techniques
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333??style=flat-square&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat-square&logo=vue.js)
 - 🖥️ &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
-- 📱 &nbsp;&nbsp;&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat-square&logo=react)
-- 🛢 &nbsp;&nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
 - 👨‍💻 &nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
-  ![XAMPP](https://img.shields.io/badge/-Xampp-333333?style=flat-square&logo=xampp&logoColor=007ACC)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)  
-  -->
 
 
 ### languages and/or tools I would like to learn : 
