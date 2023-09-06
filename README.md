@@ -1,14 +1,16 @@
-# Hi 👋, I'm Tibotsr
+## Hi 👋, I'm Tibotsr
 
 ![tibotsr](https://komarev.com/ghpvc/?username=tibotsr&label=Profile%20views&color=0e75b6&style=flat)
 
 [![](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 
-- 👨‍💻 Tous mes projets sont disponibles sur : [https://github.com/tibotsr](https://github.com/tibotsr) - 📝 Mon site personnel : [S00N](S00N) - 📄 Mes liens : [https://linktr.ee/tibotsr](https://linktr.ee/tibotsr)
+* 👨‍💻 Tous mes projets sont disponibles sur : [Mon Github](https://github.com/tibotsr)
+* 📝 Mon site personnel : [Mon site personnel](S00N)
+* 📄 Mes liens : [Tous mes réseaux : ](https://linktr.ee/tibotsr)
 
 ### Mes réseaux:
 
-[![tibotsr](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/tibo.tsr) [![tibotsr](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/users/476420730989445130)
+[![tibotsr](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/tibo.tsr){largeur=10%}[![tibotsr](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.com/users/476420730989445130)
 
 ### Languages and Tools:
 
