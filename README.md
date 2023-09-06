@@ -38,7 +38,7 @@ I would like to learn javascript because :
 
 <p>Here are the languages I've used the most <br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p></br>
 
-<br><p>here are the numbers of my contributions and my activity on github (see graph further down the page)<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&" alt="tibotsr" /></p></br>
+<br><p>here are the numbers of my contributions and my activity on github (see graph further down the page)<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&" alt="tibotsr" weight=100px/></p></br><br/>
 
 Nombres de visites  
 ![](https://profile-counter.glitch.me/Tibotsr/count.svg)
