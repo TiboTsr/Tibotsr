@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tibotsr
 
-![tibotsr](https://komarev.com/ghpvc/?username=tibotsr&label=Profile%20views&color=0e75b6&style=flat)
+Ici le nombre de personne qui ont visité mon profil : ![tibotsr](https://komarev.com/ghpvc/?username=tibotsr&label=Profile%20views&color=0e75b6&style=flat)
 
 [![](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 
