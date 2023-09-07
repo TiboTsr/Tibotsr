@@ -25,7 +25,7 @@
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🛠 &nbsp;Connaissances techniques
+### 🛠 Connaissances techniques
 
 - 🌐 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5) ✅
