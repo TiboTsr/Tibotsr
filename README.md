@@ -5,7 +5,7 @@
 * 👨‍💻 All my projects are available on : [My Github](https://github.com/tibotsr)
     * One of my old html projects for school [My first website](https://tesla.tibotsr.repl.co)
     * One of my first small, constantly evolving python projects is a [QR-code generator in python](https://github.com/TiboTsr/generateur-QRcode)
-* 📝 My personal website : [S00N](S00N)
+* 📝 My personal website : [ici](https://portfolio.tibotsr.repl.co)
 * 📄 My links : [My Linktree](https://linktr.ee/tibotsr)
 
 ### My social networks
