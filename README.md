@@ -2,7 +2,7 @@
 
 > I'm a French student studying IT, and I'd like to make a career out of it when I'm older
 
-* 📝 My personal website : [here](https://portfolio.tibotsr.repl.co)
+* 📝 My personal website : <a href="https://portfolio.tibotsr.repl.co" target="_blank">ici</a>
 * 👨‍💻 All my projects are available on : [My Github](https://github.com/tibotsr)
     * One of my old html projects for school [My first website](https://tesla.tibotsr.repl.co)
     * One of my first small, constantly evolving python projects is a [QR-code generator in python](https://github.com/TiboTsr/generateur-QRcode)
