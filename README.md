@@ -54,7 +54,7 @@ J'aimerais apprendre JavaScript parce que :
 
 ### Statistiques de mon compte
 
-Voici les langages que j'ai le plus utilisés :
+Voici les langages que j'ai le plus utilisés :<br>
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
 Nombre de visiteurs de mon profil :
