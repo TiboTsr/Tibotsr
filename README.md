@@ -1,8 +1,9 @@
 [🇫🇷 Version française](#french-readme)
 [🇬🇧 English Version](#english-readme)
 
-## Mon Readme en Français
 <a name="french-readme"></a>
+## Mon Readme en Français
+
 
 Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais faire carrière dans ce domaine plus tard.
 
@@ -62,8 +63,8 @@ Nombre de visiteurs de mon profil :<br>
 
 ---
 
-## My english readme
 <a name="english-readme"></a>
+## My english readme
 
 Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this field in the future.
 
