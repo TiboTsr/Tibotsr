@@ -57,7 +57,7 @@ J'aimerais apprendre JavaScript parce que :
 Voici les langages que j'ai le plus utilisés :<br>
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
-Nombre de visiteurs de mon profil :
+Nombre de visiteurs de mon profil :<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
 
 ---
@@ -115,8 +115,8 @@ I would like to learn JavaScript because:
 
 ### My account statistics
 
-Here are the languages I've used the most:
+Here are the languages I've used the most:<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
-Number of people who have visited my profile:
+Number of people who have visited my profile:<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
