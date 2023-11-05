@@ -54,7 +54,7 @@ I would like to learn JavaScript because:
 
 ### My account statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=fr&layout=compact" alt="tibotsr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
 
 Number of people who have visited my profile:<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
@@ -113,10 +113,9 @@ J'aimerais apprendre JavaScript parce que :
 * C'est un langage polyvalent.
 * Il est très utile pour créer de beaux sites web.
 
-### Statistiques de mon compte
+### Mes statistiques
 
-Voici les langages que j'ai le plus utilisés :<br>
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
 
 Nombre de visiteurs de mon profil :<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
