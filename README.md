@@ -32,15 +32,7 @@ Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this fie
 
 - 🌐 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5) ✅
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6) ✅
-- 🖥️ 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java) ❌
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ✅
-- 👨‍💻 
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows) ✅
-- ⚙️ 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) ✅
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown) ✅
+	@@ -45,52 +44,53 @@ Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais
 - 🔧 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ✅
 
@@ -54,10 +46,11 @@ I would like to learn JavaScript because:
 
 ### My account statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
+Here are the languages I've used the most:<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
 Number of people who have visited my profile:<br>
-![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)<br>
+![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
 
 ---
 
@@ -93,15 +86,7 @@ Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais 
 
 - 🌐 
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5) ✅
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6) ✅
-- 🖥️ 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java) ❌
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ✅
-- 👨‍💻 
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows) ✅
-- ⚙️ 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) ✅
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown) ✅
+	@@ -106,18 +106,18 @@ Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this fie
 - 🔧 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ✅
 
@@ -113,9 +98,10 @@ J'aimerais apprendre JavaScript parce que :
 * C'est un langage polyvalent.
 * Il est très utile pour créer de beaux sites web.
 
-### Mes statistiques
+### Statistiques de mon compte
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
+Voici les langages que j'ai le plus utilisés :<br>
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
 
 Nombre de visiteurs de mon profil :<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
