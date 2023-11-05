@@ -54,12 +54,7 @@ I would like to learn JavaScript because:
 
 ### My account statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tibotsr&show_icons=true&locale=en" alt="tibotsr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tibotsr&" alt="tibotsr" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=fr&layout=compact" alt="tibotsr" /></p>
 
 Number of people who have visited my profile:<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
