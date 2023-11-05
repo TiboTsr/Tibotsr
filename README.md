@@ -54,10 +54,10 @@ I would like to learn JavaScript because:
 
 ### My account statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
 
 Number of people who have visited my profile:<br>
-![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
+![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)  
 
 ---
 
@@ -115,9 +115,7 @@ J'aimerais apprendre JavaScript parce que :
 
 ### Mes statistiques
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p>
-
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tibotsr&show_icons=true&locale=en&layout=compact" alt="tibotsr" /></p><br>
 
 Nombre de visiteurs de mon profil :<br>
 ![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
