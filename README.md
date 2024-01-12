@@ -6,7 +6,7 @@
 
 Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this field in the future.
 
-* 📝 My personal website: [Click here](https://portfolio.tibotsr.repl.co) (The website is still under construction, please ignore any potential bugs.)
+* 📝 My personal website: [Click here](https://tibotsr.github.io) (The website is still under construction, please ignore any potential bugs.)
 * 👨‍💻 All my projects are available on: [My Github](https://github.com/tibotsr)
     * One of my old school HTML projects: [My first website](https://tesla.tibotsr.repl.co)
     * One of my first constantly evolving Python projects: [QR Code Generator in Python](https://github.com/TiboTsr/generateur-QRcode)
@@ -68,7 +68,7 @@ Number of people who have visited my profile:<br>
 
 Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais faire carrière dans ce domaine plus tard.
 
-* 📝 Mon site personnel : [Cliquez ici](https://portfolio.tibotsr.repl.co) (Le site est encore en construction, veuillez ignorer les éventuels bugs.)
+* 📝 Mon site personnel : [Cliquez ici](https://tibotsr.github.io) (Le site est encore en construction, veuillez ignorer les éventuels bugs.)
 * 👨‍💻 Tous mes projets sont disponibles sur : [Mon Github](https://github.com/tibotsr)
     * Un de mes anciens projets HTML pour l'école : [Mon premier site web](https://tesla.tibotsr.repl.co)
     * Un de mes premiers projets Python en constante évolution : [Générateur de codes QR en Python](https://github.com/TiboTsr/generateur-QRcode)
