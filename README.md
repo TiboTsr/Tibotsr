@@ -16,7 +16,7 @@ Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this fie
 
 <p align="left">You can contact me on the network of your choice:
 <br>
-<a href="https://instagram.com/tibo_ytb_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
+<a href="https://instagram.com/tibo.tsr_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
 <a href="https://discord.com/users/476420730989445130" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tibotsr" height="30" width="40" /></a></br>
 </p>
 
@@ -78,7 +78,7 @@ Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais 
 
 <p align="left">Vous pouvez me contacter sur le réseau de votre choix :
 <br>
-<a href="https://instagram.com/tibo.tsr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
+<a href="https://instagram.com/tibo.tsr_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
 <a href="https://discord.com/users/476420730989445130" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tibotsr" height="30" width="40" /></a></br>
 </p>
 
