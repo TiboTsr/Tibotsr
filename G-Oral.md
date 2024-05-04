@@ -33,44 +33,33 @@
     * B. On peut trouver des solutions ensemble pour mieux protéger notre vie privée dans un monde numérique.
  
 * Schéma : 
-Schéma du Cheminement des Données Personnelles
+* Schéma du Cheminement des Données Personnelles
 
-1. Collecte des données :
-   |
-   |-- Utilisation d'applications
-   |   |
-   |   |-- Applications sur smartphone
-   |   |-- Sites web
-   |   |-- Objets connectés
-   |   |-- Réseaux sociaux
-   |
-   |-- Enregistrement des actions
-       |
-       |-- Historique de navigation
-       |-- Historique d'achat
-       |-- Interactions sur les réseaux sociaux
-       |-- Données biométriques (si applicables)
+* 1. Collecte des données
+    * Utilisation d'applications
+        * Applications sur smartphone
+        * Sites web
+        * Objets connectés
+        * Réseaux sociaux
+    * Enregistrement des actions
+        * Historique de navigation
+        * Historique d'achat
+        * Interactions sur les réseaux sociaux
+        * Données biométriques (si applicables)
 
-2. Transmission des données :
-   |
-   |-- Transfert vers serveurs des entreprises
-       |
-       |-- Serveurs des applications
-       |-- Serveurs des réseaux sociaux
-       |-- Serveurs des entreprises de publicité
-       |-- Serveurs des entreprises d'analyse de données
+* 2. Transmission des données
+    * Transfert vers serveurs des entreprises
+        * Serveurs des applications
+        * Serveurs des réseaux sociaux
+        * Serveurs des entreprises de publicité
+        * Serveurs des entreprises d'analyse de données
 
-3. Utilisation par les entreprises :
-   |
-   |-- Adaptation des services en ligne
-   |   |
-   |   |-- Personnalisation des recommandations
-   |   |-- Personnalisation des publicités
-   |   |-- Amélioration des produits et services
-   |
-   |-- Monétisation des données
-       |
-       |-- Vente à des tiers
-       |-- Utilisation pour le ciblage publicitaire
-       |-- Utilisation pour des études de marché
-
+* 3. Utilisation par les entreprises
+    * Adaptation des services en ligne
+        * Personnalisation des recommandations
+        * Personnalisation des publicités
+        * Amélioration des produits et services
+    * Monétisation des données
+        * Vente à des tiers
+        * Utilisation pour le ciblage publicitaire
+        * Utilisation pour des études de marché
