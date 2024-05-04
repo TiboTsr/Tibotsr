@@ -63,3 +63,38 @@
         * Vente à des tiers
         * Utilisation pour le ciblage publicitaire
         * Utilisation pour des études de marché
+        * 
+---
+
+## Sujet 2: (math) :
+
+* I. Introduction
+   * A. Définition du sujet : Comment les maths peuvent aider à gagner aux jeux ?
+   * B. Importance des maths dans les jeux de hasard
+   * C. Annonce du plan
+
+* II. Les bases : ce que sont les probabilités et les statistiques
+   * A. Probabilités : ce qu'elles représentent (chances de gagner)
+   * B. Statistiques : comment on analyse les résultats
+   * C. Exemples simples pour illustrer ces concepts
+
+* III. Utiliser les probabilités pour mieux jouer
+   * A. Comprendre les chances de gagner dans différents jeux
+   * B. Comment cela influence les choix de jeu
+   * C. Exemple : comprendre les chances de gagner à la roulette ou avec des cartes à gratter
+
+* IV. Trouver des modèles avec les statistiques
+   * A. Regarder les tendances dans les jeux passés
+   * B. Comment cela peut aider à prendre de meilleures décisions
+   * C. Exemple : voir quels numéros sont souvent gagnants à la loterie
+
+* V. Ce que les maths ne peuvent pas faire
+   * A. Les facteurs de chance qui sont hors de notre contrôle
+   * B. Risques de jouer même avec une bonne compréhension des maths
+   * C. Exemple : certains jeux où la chance est tout
+
+* VI. Conclusion
+   * A. Récapitulation rapide des points principaux
+   * B. Les maths peuvent aider à jouer mieux, mais il y a des limites
+   *C. Appel à jouer de manière responsable et à ne pas trop compter sur la chance
+ 
