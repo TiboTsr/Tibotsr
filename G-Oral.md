@@ -1,6 +1,6 @@
 ## Données personnelles : la vie privée en voie d’extinction ?
 
-* 1. Introduction
+* 1 Introduction
     * A. Introduction au sujet : Les technologies numériques sont partout dans notre vie quotidienne.
     * B. Question principale : Est-ce que l'utilisation croissante de nos informations personnelles met en danger notre vie privée ?
 
