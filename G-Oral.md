@@ -63,7 +63,7 @@
         * Vente à des tiers
         * Utilisation pour le ciblage publicitaire
         * Utilisation pour des études de marché
-        * 
+      
 ---
 
 ## Sujet 2: (math) :
