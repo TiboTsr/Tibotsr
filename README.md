@@ -1,123 +1,67 @@
-[🇫🇷 Version française](#french-readme)
-[🇬🇧 English Version](#english-readme)
+# Tibo Tsr
 
-<a name="english-readme"></a>
-## My english readme
-
-Hi 👋, I'm Tibotsr, a French IT student. I'd like to make a career in this field in the future.
-
-* 📝 My personal website: [Click here](https://tibotsr.github.io) (The website is still under construction, please ignore any potential bugs.)
-* 👨‍💻 All my projects are available on: [My Github](https://github.com/tibotsr)
-    * One of my old school HTML projects: [My first website](https://tesla.tibotsr.repl.co)
-    * One of my first constantly evolving Python projects: [QR Code Generator in Python](https://github.com/TiboTsr/generateur-QRcode)
-* 📄 My links: [My Linktree](https://linktr.ee/tibotsr)
-
-### My social networks
-
-<p align="left">You can contact me on the network of your choice:
-<br>
-<a href="https://instagram.com/tibo.tsr_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
-<a href="https://discord.com/users/476420730989445130" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tibotsr" height="30" width="40" /></a></br>
-</p>
-
-### The languages and tools I use
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-### My technical skills
-
-- 🌐 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5) ✅
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6) ✅
-- 🖥️ 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java) ✅
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ✅
-- 👨‍💻 
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows) ✅
-- ⚙️ 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) ✅
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown) ✅
-- 🔧 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ✅
-
-### Languages and/or tools I would like to learn
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-
-I would like to learn JavaScript because:
-* It's a versatile language.
-* It's very useful for creating beautiful websites.
-
-### My account statistics
-
-Here are the languages I've used the most:<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
-
-Number of people who have visited my profile:<br>
-![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
+🎓 Étudiant en 1re année de **BUT Informatique**  
+💻 Passionné par le **développement logiciel**, la **qualité du code** et la **conception d’interfaces modernes**  
+📍 France  
 
 ---
 
-<a name="french-readme"></a>
-## Mon Readme en Français
+## 🧭 À propos
 
+Je suis actuellement étudiant en BUT Informatique, où je développe mes compétences en **programmation Java**, **gestion de base de données** et **optimisation d’applications**.  
+Je m’intéresse particulièrement à la conception d’interfaces graphiques avec **JavaFX**, à l’écriture de code clair et maintenable, et à l’amélioration des performances logicielles.
 
-Salut 👋, je suis Tibotsr, un étudiant français en informatique. J'aimerais faire carrière dans ce domaine plus tard.
+Je recherche une **expérience professionnelle** pour mettre en pratique mes compétences dans un environnement concret et collaboratif.
 
-* 📝 Mon site personnel : [Cliquez ici](https://tibotsr.github.io) (Le site est encore en construction, veuillez ignorer les éventuels bugs.)
-* 👨‍💻 Tous mes projets sont disponibles sur : [Mon Github](https://github.com/tibotsr)
-    * Un de mes anciens projets HTML pour l'école : [Mon premier site web](https://tesla.tibotsr.repl.co)
-    * Un de mes premiers projets Python en constante évolution : [Générateur de codes QR en Python](https://github.com/TiboTsr/generateur-QRcode)
-* 📄 Mes liens : [Mon Linktree](https://linktr.ee/tibotsr)
+---
 
-### Mes réseaux sociaux
+## 🛠️ Compétences techniques
 
-<p align="left">Vous pouvez me contacter sur le réseau de votre choix :
-<br>
-<a href="https://instagram.com/tibo.tsr_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tibotsr" height="30" width="40" /></a>
-<a href="https://discord.com/users/476420730989445130" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tibotsr" height="30" width="40" /></a></br>
-</p>
-
-### Les langages et outils que j'utilise
-
+### 🧩 Langages et frameworks
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Mes connaissances techniques
+### ⚙️ Outils et environnements
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/SonarLint-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarLint"/>
+</p>
 
-- 🌐 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5) ✅
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6) ✅
-- 🖥️ 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java) ✅
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python) ✅
-- 👨‍💻 
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows) ✅
-- ⚙️ 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github) ✅
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown) ✅
-- 🔧 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ✅
+---
 
-### Les langages et/ou outils que j'aimerais apprendre
+## 📊 Statistiques GitHub
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TiboTsr&show_icons=true&theme=default&hide_title=true" alt="Statistiques GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiboTsr&layout=compact&theme=default" alt="Langages les plus utilisés" height="150"/>
+</p>
 
-J'aimerais apprendre JavaScript parce que :
-* C'est un langage polyvalent.
-* Il est très utile pour créer de beaux sites web.
+---
 
-### Statistiques de mon compte
+## 🎯 Objectifs
 
-Voici les langages que j'ai le plus utilisés :<br>
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tibotsr&show_icons=true&locale=en&layout=compact)
+- Approfondir mes compétences en **développement Java et SQL**  
+- Travailler sur des projets collaboratifs et structurés  
+- Développer une approche rigoureuse et professionnelle du code  
 
-Nombre de visiteurs de mon profil :<br>
-![Profile Views](https://profile-counter.glitch.me/Tibotsr/count.svg)
+---
+
+## 📫 Contact
+
+- **Email :** [votre.email@exemple.com](mailto:votre.email@exemple.com)  
+- **LinkedIn :** [linkedin.com/in/votreprofil](https://linkedin.com/in/votreprofil)  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Visiteurs&color=grey&style=flat-square" alt="Compteur de vues"/>
+</p>
+
