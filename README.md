@@ -71,8 +71,9 @@ Je prends le temps de réfléchir avant de coder, parce qu’un bon programme co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiboTsr&theme=transparent&stroke=005fb8&fire=005fb8&ring=005fb8&currStreakLabel=005fb8" />
+  <img src="https://streak-stats.demolab.com?user=TiboTsr&theme=transparent&border=005fb8&ring=005fb8&fire=005fb8&currStreakLabel=005fb8" />
 </p>
+
 
 ---
 
