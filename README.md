@@ -55,7 +55,6 @@ Je prends le temps de réfléchir avant de coder, parce qu’un bon programme co
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,py,c,js,html,css,mysql,mongodb,git,github,figma,idea,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 - **Langages** : Java, Python, PHP, C, JavaScript  
