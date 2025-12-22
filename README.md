@@ -28,7 +28,7 @@ Je prends le temps de réfléchir avant de coder, parce qu’un bon programme co
 
 ## 🎯 Objectif actuel
 
-- 🔍 **Recherche de stage** :  **8 à 12 semaines à partir du 13 avril 2026**
+- 🔍 **Recherche de stage** :  8 à 12 semaines à partir du 13 avril 2026
 - 🏗️ **Développement applicatif** : Java, Web, Full-Stack
 - 🧩 **Méthodes** : Clean Code, logique algorithmique, travail structuré
 - 🎨 **UI / UX** : maquettes sur **Figma** avant le développement
