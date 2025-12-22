@@ -1,48 +1,70 @@
-# 👋 Salut, moi c'est Tibo !
+<h1 align="center">👋 Salut, moi c'est Tibo</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUT_Informatique-Laval-005fb8?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Stage-Avril_2026-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack_&_JavaFX-ff69b4?style=for-the-badge" />
+  <strong>Étudiant en BUT Informatique · Développeur Full-Stack en devenir · Curieux professionnel</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUT_Informatique-IUT_Laval-005fb8?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/Stage_Avril_2026-8_à_12_semaines-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Développement-Fullstack-ff69b4?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 À propos de moi
+## 🚀 À propos de moi
 
-Étudiant en **2ème année de BUT Informatique** à Laval, je suis un passionné de **développement logiciel** et de **conception d’interfaces modernes**. 
-J'aime transformer des idées complexes en applications fluides et performantes.
+Je suis étudiant en **2ᵉ année de BUT Informatique à l’IUT de Laval**.  
+J’aime comprendre **comment les choses fonctionnent**, puis les transformer en **applications claires, utiles et bien construites**.
 
-- 🛠️ **En recherche de stage** : 8 à 12 semaines à partir du 13 avril 2026.
-- 🎨 **Design UI/UX** : Je conçois mes maquettes sur **Figma** avant de coder.
-- 🏛️ **Méthodologie** : Adepte du **Clean Code** et de la méthode **Agile/SCRUM**.
+Ce qui me motive :
+- écrire du code propre et logique 🧠  
+- concevoir des interfaces agréables à utiliser 🎨  
+- apprendre en faisant, projet après projet 🚧  
+
+Je prends le temps de réfléchir avant de coder, parce qu’un bon programme commence toujours par une bonne idée.
 
 ---
 
-### 📂 Projets Phares
+## 🎯 Objectif actuel
+
+- 🔍 **Recherche de stage** :  
+  **8 à 12 semaines à partir du 13 avril 2026**
+- 🏗️ **Développement applicatif** : Java, Web, Full-Stack
+- 🧩 **Méthodes** : Clean Code, logique algorithmique, travail structuré
+- 🎨 **UI / UX** : maquettes sur **Figma** avant le développement
+
+---
+
+## 📂 Projets marquants
 
 <div align="center">
 
-| Projet | Technologies | Description |
-| :--- | :--- | :--- |
-| **🍎 AppleBot** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | **Bot Discord** automatisé pour la gestion de communauté. |
-| **♻️ Tri Web** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> | App fullstack de suivi du recyclage universitaire. |
-| **🕹️ Morpion FX** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-1572B6?style=flat-square&logo=java&logoColor=white" /> | Jeu avec interface graphique avancée et architecture propre. |
-| **🌤️ Météo App** | <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Intégration d'API météo en temps réel et interface dynamique. |
+| Projet | Technologies | Ce que j’y ai appris |
+|------|-------------|----------------------|
+| 🍎 **AppleBot** | Python · Discord API | Automatisation, événements, logique serveur |
+| ♻️ **Tri Web** | PHP · SQL · Web | Full-stack, base de données, projet concret |
+| 🕹️ **Morpion FX** | Java · JavaFX | Interfaces graphiques, MVC, rigueur du code |
+| 🌤️ **Météo App** | JavaScript · API | Requêtes API, données dynamiques, UX |
 
 </div>
 
 ---
 
-### 💻 Mon Stack Technique
+## 🧠 Compétences techniques
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,php,py,c,js,html,css,mysql,mongodb,git,github,figma,idea,vscode&theme=dark" />
 </p>
 
+- **Langages** : Java, Python, PHP, C, JavaScript  
+- **Web** : HTML, CSS, JS, PHP  
+- **Bases de données** : MySQL, MongoDB  
+- **Outils** : Git, GitHub, IntelliJ, VS Code, Figma  
+
 ---
 
-### 📊 Statistiques & Activité
+## 📊 Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TiboTsr&show_icons=true&theme=transparent&title_color=005fb8&text_color=ffffff&icon_color=005fb8&hide_border=true" height="165" />
@@ -50,19 +72,31 @@ J'aime transformer des idées complexes en applications fluides et performantes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiboTsr&theme=transparent&stroke=005fb8&fire=005fb8&ring=005fb8&currStreakLabel=005fb8" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiboTsr&theme=transparent&stroke=005fb8&fire=005fb8&ring=005fb8&currStreakLabel=005fb8" />
 </p>
 
 ---
 
-### 📫 Me contacter
+## 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:tibo.tessier@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/TiboTsr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tibo.tessier@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/TiboTsr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Vues%20du%20profil&color=005fb8&style=flat-square" alt="Compteur de vues"/>
+  <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Vues_du_profil&color=005fb8&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <em>Construire, comprendre, améliorer — une ligne de code à la fois.</em>
 </p>
