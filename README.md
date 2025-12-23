@@ -81,13 +81,13 @@ Je prends le temps de réfléchir avant de coder, parce qu’un bon programme co
 
 <p align="center">
   <a href="mailto:tibo.tessier@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
   <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="https://github.com/TiboTsr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
 
