@@ -53,10 +53,10 @@ Je prends le temps de réfléchir avant de coder, parce qu’un bon programme co
 ## 🧠 Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,py,c,js,html,css,mysql,mongodb,git,github,figma,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,php,mysql,mongodb,git,github,idea,vscode,figma&theme=dark" />
 </p>
 
-- **Langages** : Java, Python, PHP, C, JavaScript  
+- **Langages** : Java, Python, C,  
 - **Web** : HTML, CSS, JavaScript, PHP  
 - **Bases de données** : MySQL, MongoDB, SQL Server  
 - **Outils** : Git, GitHub, IntelliJ IDEA, VS Code, Figma  
