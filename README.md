@@ -1,3 +1,17 @@
+<h1 align="center">🌐 tibotsr.dev</h1>
+
+<p align="center">
+  <strong>Mon portfolio personnel · Projets · Parcours · Contact</strong>
+</p>
+
+<p align="center">
+  <a href="https://tibotsr.dev">
+    <img src="https://img.shields.io/badge/Visiter_mon_site-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<br />
+
 <h1 align="center">👋 Salut, moi c'est Tibo</h1>
 
 <p align="center">
