@@ -42,16 +42,14 @@ Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérien
 
 ## 🛠️ Stack Technique
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,php,mysql,mongodb,git,github,idea,vscode,figma,docker&theme=dark" />
+</p>
 
-| Domaine | Technologies |
-| :---: | :--- |
-| **Langages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & Outils** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **IDE** | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
-</div>
+- **Langages** : Java, Python, C,
+- **Web** : HTML, CSS, JavaScript, PHP
+- **Bases de données** : MySQL, MongoDB, SQL Server
+- **Outils** : Git, GitHub, IntelliJ IDEA, VS Code, Figma, Docker
 
 ---
 
