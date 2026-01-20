@@ -1,116 +1,91 @@
-<h1 align="center">🌐 tibotsr.dev</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=200&section=header&text=Tibo%20Tsr&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20en%20devenir&descAlignY=60&descAlign=50" alt="Header TiboTsr" />
+</div>
 
-<p align="center">
-  <strong>Mon portfolio personnel · Projets · Parcours · Contact</strong>
-</p>
+<div align="center">
 
-<p align="center">
   <a href="https://tibotsr.dev">
-    <img src="https://img.shields.io/badge/Visiter_mon_site-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Mon_Portfolio-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connexion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tibo.tessier@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
 
 <br />
 
-<h1 align="center">👋 Salut, moi c'est Tibo</h1>
-
-<p align="center">
-  <strong>Étudiant en BUT Informatique · Développeur Full-Stack en devenir · Curieux professionnel</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUT_Informatique-IUT_Laval-005fb8?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Stage_Avril_2026-8_à_12_semaines-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Développement-Fullstack-ff69b4?style=for-the-badge" />
-</p>
+<div align="center">
+  <h3>🚨 À la recherche d'un stage (8 à 12 semaines)</h3>
+  <p><strong>📅 Disponibilité :</strong> À partir du 13 avril 2026</p>
+  <img src="https://img.shields.io/badge/Objectif-Développement_Applicatif_%26_Web-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localisation-France-red?style=flat-square" />
+</div>
 
 ---
 
 ## 🚀 À propos de moi
 
-Je suis étudiant en **2ᵉ année de BUT Informatique à l’IUT de Laval**.  
-J’aime comprendre **comment les choses fonctionnent**, puis les transformer en **applications claires, utiles et bien construites**.
+Étudiant en **2ᵉ année de BUT Informatique à l’IUT de Laval**, je transforme des problèmes complexes en applications **utiles et ergonomiques**.
 
-Ce qui me motive :
-- écrire du code propre et logique 🧠  
-- concevoir des interfaces agréables à utiliser 🎨  
-- apprendre en faisant, projet après projet 🚧  
+Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérience utilisateur (UI/UX). Mon approche est pragmatique : **réfléchir avant de coder** pour garantir une solution propre, maintenable et évolutive.
 
-Je prends le temps de réfléchir avant de coder, parce qu’un bon programme commence toujours par une bonne idée.
-
----
-
-## 🎯 Objectif actuel
-
-- 🔍 **Recherche de stage** :  8 à 12 semaines à partir du 13 avril 2026
-- 🏗️ **Développement applicatif** : Java, Web, Full-Stack
-- 🧩 **Méthodes** : Clean Code, logique algorithmique, travail structuré
-- 🎨 **UI / UX** : maquettes sur **Figma** avant le développement
+**Ce qui me définit :**
+* 🧠 **Rigueur** : Code propre (Clean Code) et logique algorithmique.
+* 🎨 **Sens du détail** : Maquettage Figma avant développement.
+* 🚧 **Apprentissage continu** : Chaque projet est une opportunité de maîtriser une nouvelle techno.
 
 ---
 
-## 📂 Projets marquants
+## 🛠️ Stack Technique
 
 <div align="center">
 
-| Projet | Technologies | Ce que j’y ai appris |
-|------|-------------|----------------------|
-| 🍎 **AppleBot** | Python · Discord API | Automatisation, événements, logique serveur |
-| ♻️ **Tri Web** | PHP · SQL · Web | Full-stack, base de données, projet concret |
-| 🕹️ **Morpion FX** | Java · JavaFX | Interfaces graphiques, MVC, rigueur du code |
-| 🌤️ **Météo App** | JavaScript · API | Requêtes API, données dynamiques, UX |
+| Domaine | Technologies |
+| :---: | :--- |
+| **Langages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data & Outils** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **IDE** | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
 ---
 
-## 🧠 Compétences techniques
+## 📂 Projets Marquants
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,php,mysql,mongodb,git,github,idea,vscode,figma&theme=dark" />
-</p>
+> *Clique sur le nom du projet pour voir le code source.*
 
-- **Langages** : Java, Python, C,  
-- **Web** : HTML, CSS, JavaScript, PHP  
-- **Bases de données** : MySQL, MongoDB, SQL Server  
-- **Outils** : Git, GitHub, IntelliJ IDEA, VS Code, Figma  
-
----
-
-## 📊 Activité GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiboTsr&show_icons=true&theme=transparent&title_color=005fb8&text_color=ffffff&icon_color=005fb8&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiboTsr&layout=compact&theme=transparent&title_color=005fb8&text_color=ffffff&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TiboTsr&theme=transparent&border=005fb8&ring=005fb8&fire=005fb8&currStreakLabel=005fb8" />
-</p>
-
+| Projet | Stack | Concept & Apprentissage |
+| :--- | :--- | :--- |
+| **🍎 [AppleBot](#)** | `Python` `Discord.py` | Bot Discord complet. Gestion d'événements asynchrones et logique serveur. |
+| **♻️ [Tri Web](#)** | `PHP` `SQL` `JS` | Application web full-stack. Gestion de base de données relationnelle et architecture MVC. |
+| **🕹️ [Morpion FX](#)** | `Java` `JavaFX` | Jeu de bureau. Focus sur l'interface graphique et la Programmation Orientée Objet (POO). |
+| **🌤️ [Météo App](#)** | `JS` `REST API` | Dashboard météo. Consommation d'API externes et manipulation du DOM en temps réel. |
 
 ---
 
-## 📫 Me contacter
+## 📊 Statistiques GitHub
 
-<p align="center">
-  <a href="mailto:tibo.tessier@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-  <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
-     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://github.com/TiboTsr">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TiboTsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=005fb8&icon_color=005fb8" height="160" alt="Stats Globales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiboTsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=005fb8" height="160" alt="Langages Top" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Vues_du_profil&color=005fb8&style=flat-square" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TiboTsr&theme=tokyonight&hide_border=true&background=0d1117&ring=005fb8&fire=005fb8&currStreakLabel=005fb8" alt="Streak" />
+</div>
 
 ---
 
-<p align="center">
-  <em>Construire, comprendre, améliorer — une ligne de code à la fois.</em>
-</p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Visiteurs&color=005fb8&style=flat-square" alt="Compteur de vues" />
+  </p>
+  <p><em>"Construire, comprendre, améliorer — une ligne de code à la fois."</em></p>
+</div>
