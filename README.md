@@ -73,14 +73,6 @@ Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiboTsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=005fb8" height="160" alt="Langages Top" />
 </div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <br />
 
 <div align="center">
@@ -95,3 +87,13 @@ Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérien
   </p>
   <p><em>"Construire, comprendre, améliorer — une ligne de code à la fois."</em></p>
 </div>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/TiboTsr/TiboTsr/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
