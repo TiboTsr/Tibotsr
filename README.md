@@ -16,15 +16,6 @@
 
 </div>
 
-<br />
-
-<div align="center">
-  <h3>🚨 À la recherche d'un stage (8 à 12 semaines)</h3>
-  <p><strong>📅 Disponibilité :</strong> À partir du 13 avril 2026</p>
-  <img src="https://img.shields.io/badge/Objectif-Développement_Applicatif_%26_Web-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Localisation-France-red?style=flat-square" />
-</div>
-
 ---
 
 ## 🚀 À propos de moi
