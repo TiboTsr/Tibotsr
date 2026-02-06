@@ -68,7 +68,10 @@ jobs:
           curl -L "https://github-readme-activity-graph.vercel.app/graph?username=TiboTsr&bg_color=0d1117&color=8b949e&line=005fb8&point=005fb8&area=true&hide_border=true" -o assets/metrics-activity.svg
 
       - name: Commit activity graph
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update activity graph"
-          file_pattern: assets/metrics-activity.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics-activity.svg
+          git commit -m "chore: update activity graph" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push origin HEAD:main
