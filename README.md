@@ -74,6 +74,12 @@ Etudiant en 2e annee de BUT Informatique a l'IUT de Laval, je transforme des pro
   <img src="assets/metrics-wakatime.svg" />
 </div>
 
+<br />
+
+<div align="center">
+  <img src="assets/metrics-activity.svg" />
+</div>
+
 
 ---
 
