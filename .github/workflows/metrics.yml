@@ -33,7 +33,19 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
-          filename: assets/metrics-overview.svg
+          config_locale: fr
+          filename: assets/metrics-overview-fr.svg
+
+      - name: Overview (EN)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: TiboTsr
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          config_locale: en
+          filename: assets/metrics-overview-en.svg
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -43,7 +55,22 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Paris
-          filename: assets/metrics-languages.svg
+          config_locale: fr
+          filename: assets/metrics-languages-fr.svg
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+
+      - name: Languages (EN)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: TiboTsr
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          config_locale: en
+          filename: assets/metrics-languages-en.svg
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
@@ -56,7 +83,23 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Paris
-          filename: assets/metrics-wakatime.svg
+          config_locale: fr
+          filename: assets/metrics-wakatime-fr.svg
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_limit: 6
+
+      - name: WakaTime (EN)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: TiboTsr
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          config_locale: en
+          filename: assets/metrics-wakatime-en.svg
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_sections: time, languages, editors, os
