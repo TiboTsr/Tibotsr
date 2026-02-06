@@ -1,16 +1,21 @@
 <div align="center">
+  <a href="README_PROFILE.md"><img src="https://img.shields.io/badge/FR-Actif-005fb8?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
+  <a href="README_PROFILE_EN.md"><img src="https://img.shields.io/badge/EN-Switch-1f2937?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=200&section=header&text=Tibo%20Tsr&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Full-Stack%20en%20devenir&descAlignY=60&descAlign=50" alt="Header TiboTsr" />
 </div>
 
 <div align="center">
   <a href="https://tibotsr.dev">
-    <img src="https://img.shields.io/badge/Mon_Portfolio-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mon_Portfolio-tibotsr.dev-005fb8?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connexion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connexion-0077B5?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tibo.tessier@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -55,24 +60,25 @@ Etudiant en 2e annee de BUT Informatique a l'IUT de Laval, je transforme des pro
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/WakaTime-Stats-005fb8?style=for-the-badge&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/TiboTsr?label=Followers&style=for-the-badge&color=005fb8" />
-  <img src="https://img.shields.io/github/stars/TiboTsr?affiliations=OWNER&style=for-the-badge&color=005fb8" />
+  <img src="https://img.shields.io/badge/WakaTime-Stats-005fb8?style=for-the-badge&labelColor=0d1117&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/TiboTsr?label=Followers&style=for-the-badge&labelColor=0d1117&color=005fb8" />
+  <img src="https://img.shields.io/github/stars/TiboTsr?affiliations=OWNER&style=for-the-badge&labelColor=0d1117&color=005fb8" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="assets/metrics-overview.svg" />
-  <img src="assets/metrics-languages.svg" />
+  <img src="assets/metrics-overview-fr.svg" />
+  <img src="assets/metrics-languages-fr.svg" />
 </div>
 
 
 <br />
 
 <div align="center">
-  <img src="assets/metrics-wakatime.svg" />
+  <img src="assets/metrics-wakatime-fr.svg" />
 </div>
+
 
 <br />
 
