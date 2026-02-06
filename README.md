@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=200&section=header&text=Tibo%20Tsr&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Développeur%20Full-Stack%20en%20devenir&descAlignY=60&descAlign=50" alt="Header TiboTsr" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005fb8&height=200&section=header&text=Tibo%20Tsr&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Developpeur%20Full-Stack%20en%20devenir&descAlignY=60&descAlign=50" alt="Header TiboTsr" />
 </div>
 
 <div align="center">
-
   <a href="https://tibotsr.dev">
-    <img src="https://img.shields.io/badge/🌐_Mon_Portfolio-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mon_Portfolio-tibotsr.dev-005fb8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tibo-tessier-89b97b352/">
     <img src="https://img.shields.io/badge/LinkedIn-Connexion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,62 +12,68 @@
   <a href="mailto:tibo.tessier@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </div>
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 A propos
 
-Étudiant en **2ᵉ année de BUT Informatique à l’IUT de Laval**, je transforme des problèmes complexes en applications **utiles et ergonomiques**.
+Etudiant en 2e annee de BUT Informatique a l'IUT de Laval, je transforme des problemes complexes en applications utiles et ergonomiques. J'accorde une attention particuliere a l'architecture logicielle et a l'experience utilisateur (UI/UX). Mon approche est pragmatique : reflechir avant de coder pour livrer une solution propre, maintenable et evolutive.
 
-Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérience utilisateur (UI/UX). Mon approche est pragmatique : **réfléchir avant de coder** pour garantir une solution propre, maintenable et évolutive.
-
-**Ce qui me définit :**
-* 🧠 **Rigueur** : Code propre (Clean Code) et logique algorithmique.
-* 🎨 **Sens du détail** : Maquettage Figma avant développement.
-* 🚧 **Apprentissage continu** : Chaque projet est une opportunité de maîtriser une nouvelle techno.
+**Ce qui me definit**
+- 🧠 Rigueur : clean code et logique algorithmique
+- 🎯 Sens du detail : maquettage avant developpement
+- 📚 Apprentissage continu : chaque projet est une nouvelle opportunite
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,php,mysql,mongodb,git,github,idea,vscode,figma,docker&theme=dark" />
 </p>
 
-- **Langages** : Java, Python, C,
-- **Web** : HTML, CSS, JavaScript, PHP
-- **Bases de données** : MySQL, MongoDB, SQL Server
-- **Outils** : Git, GitHub, IntelliJ IDEA, VS Code, Figma, Docker
+- 💻 Langages : Java, Python, C
+- 🌐 Web : HTML, CSS, JavaScript, PHP
+- 🗄️ Bases de donnees : MySQL, MongoDB, SQL Server
+- 🧰 Outils : Git, GitHub, IntelliJ IDEA, VS Code, Figma, Docker
 
 ---
 
-## 📂 Projets Marquants
+## 📂 Projets
 
-> *Clique sur le nom du projet pour voir le code source.*
-
-| Projet | Stack | Concept & Apprentissage |
+| Projet | Stack | Focus | 
 | :--- | :--- | :--- |
-| **🍎 [AppleBot](#)** | `Python` `Discord.py` | Bot Discord complet. Gestion d'événements asynchrones et logique serveur. |
-| **♻️ [Tri Web](#)** | `PHP` `SQL` `JS` | Application web full-stack. Gestion de base de données relationnelle et architecture MVC. |
-| **🕹️ [Morpion FX](#)** | `Java` `JavaFX` | Jeu de bureau. Focus sur l'interface graphique et la Programmation Orientée Objet (POO). |
-| **🌤️ [Météo App](#)** | `JS` `REST API` | Dashboard météo. Consommation d'API externes et manipulation du DOM en temps réel. |
+| **Portfolio** | HTML, CSS, JS | Site vitrine personnel, animations, stats GitHub et WakaTime |
+| **AppleBot** | Python, Discord.py | Bot Discord, gestion d'evenements asynchrones et logique serveur |
+| **Tri Web** | PHP, SQL, JS | Application web full-stack, base de donnees relationnelle, MVC |
+| **Morpion FX** | Java, JavaFX | Interface graphique et POO |
+| **Meteo App** | JS, REST API | Consommation d'API et DOM en temps reel |
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiboTsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=005fb8&icon_color=005fb8" height="160" alt="Stats Globales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiboTsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=005fb8" height="160" alt="Langages Top" />
+  <img src="https://img.shields.io/badge/WakaTime-Stats-005fb8?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/TiboTsr?label=Followers&style=for-the-badge&color=005fb8" />
+  <img src="https://img.shields.io/github/stars/TiboTsr?affiliations=OWNER&style=for-the-badge&color=005fb8" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TiboTsr&theme=tokyonight&hide_border=true&background=0d1117&ring=005fb8&fire=005fb8&currStreakLabel=005fb8" alt="Streak" />
+  <img src="assets/metrics-overview.svg" />
+  <img src="assets/metrics-languages.svg" />
 </div>
+
+
+<br />
+
+<div align="center">
+  <img src="assets/metrics-wakatime.svg" />
+</div>
+
 
 ---
 
@@ -76,7 +81,7 @@ Au-delà du code, je m'intéresse à l'architecture logicielle et à l'expérien
   <p>
     <img src="https://komarev.com/ghpvc/?username=TiboTsr&label=Visiteurs&color=005fb8&style=flat-square" alt="Compteur de vues" />
   </p>
-  <p><em>"Construire, comprendre, améliorer — une ligne de code à la fois."</em></p>
+  <p><em>"Construire, comprendre, ameliorer - une ligne de code a la fois."</em></p>
 </div>
 
 ---
