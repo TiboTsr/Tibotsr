@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="README_PROFILE.md"><img src="https://img.shields.io/badge/FR-Actif-005fb8?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
-  <a href="README_PROFILE_EN.md"><img src="https://img.shields.io/badge/EN-Switch-1f2937?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/FR-Actif-005fb8?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/EN-Switch-1f2937?style=for-the-badge&labelColor=0d1117&logo=googletranslate&logoColor=white" /></a>
 </div>
 
 <div align="center">
