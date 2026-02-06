@@ -87,6 +87,7 @@ jobs:
           filename: assets/metrics-wakatime-fr.svg
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 3650
           plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_limit: 6
 
@@ -102,6 +103,7 @@ jobs:
           filename: assets/metrics-wakatime-en.svg
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 3650
           plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_limit: 6
 
