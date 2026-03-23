@@ -50,8 +50,8 @@ Etudiant en 2e annee de BUT Informatique a l'IUT de Laval, je transforme des pro
 | Projet | Stack | Focus | 
 | :--- | :--- | :--- |
 | [**Portfolio**](https://tibotsr.dev) | HTML, CSS, JS | Site vitrine personnel, animations, stats GitHub et WakaTime |
-| [**AppleBot**](applebot.tibotsr.dev) | Python, Discord.py | Bot Discord, gestion d'evenements asynchrones et logique serveur |
-| [**Calendrier ICS Personnalisable**](calendrier-fr.tibotsr.dev) | HTML, CSS, JS, PYTHON | Site Web permettant le visionnage et la création de calendrier ICS personnalisable |
+| [**AppleBot**](https://applebot.tibotsr.dev) | Python, Discord.py | Bot Discord, gestion d'evenements asynchrones et logique serveur |
+| [**Calendrier ICS Personnalisable**](https://calendrier-fr.tibotsr.dev) | HTML, CSS, JS, PYTHON | Site Web permettant le visionnage et la création de calendrier ICS personnalisable |
 | **Tri Web** | PHP, SQL, JS | Application web full-stack, base de donnees relationnelle, MVC |
 | **Morpion FX** | Java, JavaFX | Interface graphique et POO |
 | **Meteo App** | JS, REST API | Consommation d'API et DOM en temps reel |
