@@ -25,11 +25,6 @@
 
 Etudiant en 2e annee de BUT Informatique a l'IUT de Laval, je transforme des problemes complexes en applications utiles et ergonomiques. J'accorde une attention particuliere a l'architecture logicielle et a l'experience utilisateur (UI/UX). Mon approche est pragmatique : reflechir avant de coder pour livrer une solution propre, maintenable et evolutive.
 
-**Ce qui me definit**
-- 🧠 Rigueur : clean code et logique algorithmique
-- 🎯 Sens du detail : maquettage avant developpement
-- 📚 Apprentissage continu : chaque projet est une nouvelle opportunite
-
 ---
 
 ## 🛠️ Stack technique
