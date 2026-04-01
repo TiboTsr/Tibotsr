@@ -25,11 +25,6 @@
 
 Second-year Computer Science student at IUT of Laval. I turn complex problems into useful, user-friendly applications, with a focus on software architecture and UI/UX. My approach is pragmatic: think before coding to deliver clean, maintainable, and scalable solutions.
 
-**What defines me**
-- 🧠 Rigor: clean code and solid algorithmic logic
-- 🎯 Attention to detail: prototyping before development
-- 📚 Continuous learning: every project is a new opportunity
-
 ---
 
 ## 🛠️ Tech stack
